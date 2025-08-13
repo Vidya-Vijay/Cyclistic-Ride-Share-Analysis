@@ -16,7 +16,7 @@ As part of the Google Data Analytics Capstone, I analyzed Cyclistic’s Q1 2020 
 📊 Generated insights and actionable recommendations to support business decisions.
 
 ## 💾 SQL Queries  
-All SQL queries used for analysis are in the file 
+All SQL queries used for analysis are in the file ['Queries.sql'] (./Queries.sql).
 
 ## 📈 Key Insights  
 🚲 Members account for 88.64% of rides (378K trips), casual riders 11.36% (48K trips).  
