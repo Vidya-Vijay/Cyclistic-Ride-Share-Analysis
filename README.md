@@ -18,6 +18,9 @@ As part of the Google Data Analytics Capstone, I analyzed Cyclistic’s Q1 2020 
 ## 💾 SQL Queries  
 All SQL queries used for analysis are in the file ['Queries.sql'](./Queries.sql).
 
+## 📊 Power BI Dashboard
+![Cyclistic Dashboard](./Power%20BI%20Dashboard.png)
+
 ## 📈 Key Insights  
 🚲 Members account for 88.64% of rides (378K trips), casual riders 11.36% (48K trips).  
 📅 Member usage dominates each month; January had 136K rides.  
