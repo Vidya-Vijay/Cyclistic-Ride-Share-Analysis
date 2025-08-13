@@ -1,4 +1,4 @@
-#🚴‍♂️ Pedaling Toward Insights: Cyclistic Bike-Share Analysis 
+🚴‍♂️ Pedaling Toward Insights: Cyclistic Bike-Share Analysis 
 *Google Data Analytics Capstone Project*
 
 ## 📋 Project Summary  
